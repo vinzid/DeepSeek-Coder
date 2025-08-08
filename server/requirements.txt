@@ -1,0 +1,12 @@
+torch>=2.0
+tokenizers
+transformers
+accelerate
+sympy==1.12
+pebble 
+timeout-decorator 
+attrdict
+bitsandbytes
+uvicorn
+fastapi
+pydantic
